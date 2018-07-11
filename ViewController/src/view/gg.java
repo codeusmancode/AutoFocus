@@ -10,6 +10,7 @@ public class gg {
         int i=0;
         //other workig
         int b = 0;
+        int d= 0;
         return null;
     }
 }

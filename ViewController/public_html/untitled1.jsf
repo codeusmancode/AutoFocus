@@ -3,7 +3,8 @@
 <f:view xmlns:f="http://java.sun.com/jsf/core" xmlns:af="http://xmlns.oracle.com/adf/faces/rich">
     <af:document title="untitled1.jsf" id="d1">
         <af:form id="f1">
-            <af:button text="button 1" id="b1"/>
+            <af:button text="button 1" id="b1" action="#{gg.b1_action}"/>
         </af:form>
     </af:document>
+    <!--oracle-jdev-comment:preferred-managed-bean-name:gg-->
 </f:view>
