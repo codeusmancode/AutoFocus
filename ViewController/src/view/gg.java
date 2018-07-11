@@ -13,4 +13,7 @@ public class gg {
         int c = 8;
         return null;
     }
+    public void hell(){
+        int i = 0;
+    }
 }
