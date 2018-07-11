@@ -15,6 +15,7 @@ public class gg {
     }
     public void hell(){
         int i = 0;
+        int b = 9;
         
         //from here
         //some new here
