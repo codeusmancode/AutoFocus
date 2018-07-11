@@ -9,6 +9,7 @@ public class gg {
         //usman riaz working
         //other workig
         int b = 0;
+        int c = 8;
         return null;
     }
 }
