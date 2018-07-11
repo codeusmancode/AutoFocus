@@ -14,7 +14,7 @@ public class gg {
         return null;
     }
     public void hell(){
-        int i = 0;
+        int ii = 0;
         int b = 9;
         
         
