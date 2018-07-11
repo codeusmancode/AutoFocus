@@ -17,6 +17,8 @@ public class gg {
         int i = 0;
         int b = 9;
         
+        
+        int some = 45;
         //from here
         //some new here
     }
